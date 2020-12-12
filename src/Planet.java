@@ -25,5 +25,5 @@ public class Planet {
         return Math.sqrt(x+y);
     }
 
-    public 
+    
 }
